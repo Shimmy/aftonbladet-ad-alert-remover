@@ -1,0 +1,1 @@
+# aftonbladet-ad-alert-remover
